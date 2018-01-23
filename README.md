@@ -64,7 +64,7 @@ let obj = {
   ]
 }
 
-controler(obj)
+controller(obj)
 ```
 
 ## Use
