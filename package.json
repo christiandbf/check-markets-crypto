@@ -1,0 +1,33 @@
+{
+  "name": "check-markets-crypto",
+  "version": "1.0.0",
+  "description": "A module to check conditions on cryptocurrencies markets",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiandbf/check-markets-crypto.git"
+  },
+  "keywords": [
+    "Bitcoin",
+    "Cryptocurrencies",
+    "Markets",
+    "Exchanges",
+    "CCXT"
+  ],
+  "author": "Christian Barrios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christiandbf/check-markets-crypto/issues"
+  },
+  "homepage": "https://github.com/christiandbf/check-markets-crypto#readme",
+  "dependencies": {
+    "ccxt": "^1.10.726"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0",
+    "standard": "^10.0.3"
+  }
+}
