@@ -1,6 +1,6 @@
 {
   "name": "check-markets-crypto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module to check conditions on cryptocurrencies markets",
   "main": "index.js",
   "scripts": {
